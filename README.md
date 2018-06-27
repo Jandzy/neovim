@@ -4,6 +4,11 @@
   
 > plug path "~/.local/share/nvim/"
 
+
+
+![nvim](https://raw.githubusercontent.com/Jandzy/neovim/master/mynvim.png)
+
+
 ~~~
   ~/.c/n/init.vim                                                                                        buffers 
   1 set number " 显示行号
